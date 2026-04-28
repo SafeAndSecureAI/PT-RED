@@ -2,10 +2,6 @@
 
 Brief instructions to run `NC.py` and `pt-red.py` on CIFAR-10 models.
 
-## Author
-- Guangmingmei Yang
-- gzy5102@psu.edu
-
 ## Requirements
 - Python 3.8+
 - See `requirements.txt`
